@@ -21,7 +21,7 @@ A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
 ## Install
 
-- You can download it from [release](https://github.com/McDull-Github/Trojan-Qt5/releases) page
+- You can download it from [release](https://github.com/lncnxyz/Trojan-Qt5/releases) page
 
 
 ## Warning
